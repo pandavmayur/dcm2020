@@ -1,1 +1,1 @@
-print("three py")
+print("three")

@@ -1,1 +1,1 @@
-print("four py")
+print("four")
